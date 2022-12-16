@@ -7,7 +7,7 @@
 * [Online Resources](#online-resources)
    * [Official Rules](#official-rules-from-usgaorg)
    * [Rules Discussions](#rules-discussions)
-   * [Youtube Channels](#youtube-channels)
+   * [Youtube Channels](#youtube-channels-and-videos)
 * [Mobile Apps](#mobile-apps)
 * [Booklets and PDFs](#booklets-and-pdfs)
 * [Quizzes](#quizzes)
@@ -59,10 +59,14 @@ Facebook Groups:
 * [The Golf Rules Samaritan](https://www.facebook.com/groups/thegolfrulessamaritan/)
 * [Golf Rules Officials](https://www.facebook.com/groups/889959504395079/)
 
-### Youtube Channels
+### Youtube Channels and videos
 
-* [Rules of Golf Explained](https://www.youtube.com/playlist?list=PLnU5qUEfww3fi0iCW6JVWrGtLWsJC_GSf)
-* 
+* [Rules of Golf Explained](https://www.youtube.com/playlist?list=PLnU5qUEfww3fi0iCW6JVWrGtLWsJC_GSf) (USGA Channel)
+* The World Handicap System (WHS):
+  * [How will the The World Handicap System affect your golf?](https://www.youtube.com/watch?v=inPXB7YFuS0&list=PLPaAMxYPZcI9D9feMNQyKW-d35jr9ncLI&ab_channel=TheR%26A)
+  * [What Scores are Acceptable for Handicap Purposes?](https://www.youtube.com/watch?v=Oajd0V0cXz8&list=PLPaAMxYPZcI9D9feMNQyKW-d35jr9ncLI&index=8&ab_channel=TheR%26A)
+  * [Maximum Scores for Handicap](https://www.youtube.com/watch?v=NXrnVPd0r5g&list=PLPaAMxYPZcI9D9feMNQyKW-d35jr9ncLI&index=9&ab_channel=TheR%26A)
+  * [Frequency of Handicap Update](https://www.youtube.com/watch?v=EC9_lTX7tSM&list=PLPaAMxYPZcI9D9feMNQyKW-d35jr9ncLI&index=11&ab_channel=TheR%26A)
 
 ## Apps and Booklets
 
@@ -76,9 +80,9 @@ Facebook Groups:
 * [Rules of Golf App](https://apple.co/3LBYQpp) for **iOS**
 * [Rules of Golf App](https://play.google.com/store/apps/details?id=com.randa.android&hl=en_GB&gl=US) for **Android**
 
-### Booklets and PDFs (**free**)
+### Booklets and PDFs
 
-* USGA Publications
+* USGA Publications (Free downloads)
   * [The Player's Edition of the Rules of Golf, effective January 2019](https://www.usgapublications.com/collections/rules-of-golf-2019/products/the-players-edition-of-the-rules-of-golf?variant=12581304270928)
   * [Principal Changes in the 2023 Rules](https://www.usga.org/content/dam/usga/pdf/2022/rules/2023%20Principal%20Changes.pdf)
   * [Five Key Changes Infographic](https://www.usga.org/content/dam/usga/pdf/2022/rules/2023ROG5KeyChangesInfographic.pdf)
