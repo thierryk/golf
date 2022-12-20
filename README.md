@@ -1,3 +1,7 @@
+**_This site is open source. [Improve this page](https://github.com/thierryk/golf/issues/new)._**
+
+---
+
 # Rules resources and more
 
 > _The Rules are comprehensive and provide answers to the many issues that arise in a game that is played worldwide on many different types of courses by players of all abilities_.<br>&mdash; R&A
@@ -15,8 +19,6 @@
   *  [Abbreviations](#abbreviations)
   *  [Terms](#terms)
 
----
-**_This site is open source. [Improve this page](https://github.com/thierryk/golf/issues/new)._**
 ---
 
 ## Online Resources
