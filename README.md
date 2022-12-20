@@ -116,51 +116,51 @@ Facebook Groups:
 > **Context** is key to properly understand some of these abbreviations (i.e. **IO** may stand for "_Integral Object_" or "_Immovable Obstruction_").<br> 
 > Many of these abbreviations are not _**recognised**_ but are nonetheless used in unformal comments / discussions.
 
-**4BBB**: Four Ball Better Ball<br>
-**ACC**: Abnomal Course Condition<br>
-**AH**: Animal Hole<br>
-**BIP**: Ball In Play<br>
-**BOTL**: Back On The Line<br>
-**CAS**: Conditions Affecting the Stroke<br>
-**CB**: Countback<br>
-**CTTH**: Closer To The Hole<br>
-**DQ**: Disqualification<br>
-**DZ**: Dropping Zone ou Drop Zone<br>
-**FR**: Free Relief<br>
-**GA**: General Area<br>
-**GAC**: Ground Already Covered<br>
-**GP**: General Penalty<br>
-**GUR**: Ground Under Repair<br>
-**HC**: Handicap<br>
-**IO**: Integral Object<br>
-**IO**: Immovable Obstruction<br>
-**KVC**: Known or Virtually Certain<br>
-**LB**: Lost Ball<br>
-**MLR**: Model Local Rule<br>
-**MO**: Movable Obstruction<br>
-**NPR or NPOR**: Nearest Point of Relief<br>
-**NPCR or NPOCR**: Nearest Point of Complete Relief<br>
-**NPZ**: No Play Zone<br>
-**OB**: Out of Bounce<br>
-**PA**: Penalty Area<br>
-**PCC**:Playing Conditions Calculation<br>
-**PS**: Penalty Stroke<br>
-**POE**: Point Of Entry<br>
-**RA**: Relief Area<br>
-**RoG**: Rules of Golf<br>
-**RP**: Reference Point<br>
-**RPA**: Red Penalty Area<br>
-**RPA or RFPA**: Relief from Penalty Area<br>
-**RS**: Red Stake<br>
-**R&A**: Royal & Ancient ([randa.org](https://randa.org))<br>
-**SD or S&D**: Stroke & Distance<br>
-**SP**: Stroke Play<br>
-**STB**: Stableford<br>
-**TW**: Temporary Water<br>
-**USGA**: United States Golf Association ([usga.org](https://usga.org))<br>
-**YS**: Yellow Stake<br>
-**YPA**: Yellow Penalty Area<br>
-**WHS**: World Handicap System
+* **4BBB**: Four Ball Better Ball<br>
+* **ACC**: Abnomal Course Condition<br>
+* **AH**: Animal Hole<br>
+* **BIP**: Ball In Play<br>
+* **BOTL**: Back On The Line<br>
+* **CAS**: Conditions Affecting the Stroke<br>
+* **CB**: Countback<br>
+* **CTTH**: Closer To The Hole<br>
+* **DQ**: Disqualification<br>
+* **DZ**: Dropping Zone ou Drop Zone<br>
+* **FR**: Free Relief<br>
+* **GA**: General Area<br>
+* **GAC**: Ground Already Covered<br>
+* **GP**: General Penalty<br>
+* **GUR**: Ground Under Repair<br>
+* **HC**: Handicap<br>
+* **IO**: Integral Object<br>
+* **IO**: Immovable Obstruction<br>
+* **KVC**: Known or Virtually Certain<br>
+* **LB**: Lost Ball<br>
+* **MLR**: Model Local Rule<br>
+* **MO**: Movable Obstruction<br>
+* **NPR or NPOR**: Nearest Point of Relief<br>
+* **NPCR or NPOCR**: Nearest Point of Complete Relief<br>
+* **NPZ**: No Play Zone<br>
+* **OB**: Out of Bounce<br>
+* **PA**: Penalty Area<br>
+* **PCC**:Playing Conditions Calculation<br>
+* **PS**: Penalty Stroke<br>
+* **POE**: Point Of Entry<br>
+* **RA**: Relief Area<br>
+* **RoG**: Rules of Golf<br>
+* **RP**: Reference Point<br>
+* **RPA**: Red Penalty Area<br>
+* **RPA or RFPA**: Relief from Penalty Area<br>
+* **RS**: Red Stake<br>
+* **R&A**: Royal & Ancient ([randa.org](https://randa.org))<br>
+* **SD or S&D**: Stroke & Distance<br>
+* **SP**: Stroke Play<br>
+* **STB**: Stableford<br>
+* **TW**: Temporary Water<br>
+* **USGA**: United States Golf Association ([usga.org](https://usga.org))<br>
+* **YS**: Yellow Stake<br>
+* **YPA**: Yellow Penalty Area<br>
+* **WHS**: World Handicap System
 
 ### Terms
 
