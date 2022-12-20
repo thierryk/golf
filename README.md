@@ -12,6 +12,8 @@
 * [Booklets and PDFs](#booklets-and-pdfs)
 * [Quizzes](#quizzes)
 * [Abbreviations and Terms](#abbreviations-and-terms)
+  *  [Abbreviations](#abbreviations)
+  *  [Terms](#terms)
 
 ---
 
@@ -148,6 +150,7 @@ Facebook Groups:
 **RS**: Red Stake<br>
 **R&A**: Royal & Ancient ([randa.org](https://randa.org))<br>
 **SD or S&D**: Stroke & Distance<br>
+**SP**: Stroke Play<br>
 **STB**: Stableford<br>
 **TW**: Temporary Water<br>
 **USGA**: United States Golf Association ([usga.org](https://usga.org))<br>
@@ -158,7 +161,7 @@ Facebook Groups:
 ### Terms
 
 * Do not say Hazard, say **Penalty Area** (PA)
-* Do not say Casual Water, say **Temporary Water**
+* Do not say Casual Water, say **Temporary Water** (TA)
 * Do not say Team, say **Side**
 * Do not say Competitor or Adversary, say **Opponent**
 * Do not say Teammate, say **Partner**
