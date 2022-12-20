@@ -16,7 +16,7 @@
   *  [Terms](#terms)
 
 ---
-This site is open source. [Improve this page](https://github.com/thierryk/golf/issues/new).
+**_This site is open source. [Improve this page](https://github.com/thierryk/golf/issues/new)._**
 ---
 
 ## Online Resources
