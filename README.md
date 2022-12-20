@@ -1,4 +1,4 @@
-# Golf Rules (resources and more) :golf:
+# Rules resources and more
 
 > _The Rules are comprehensive and provide answers to the many issues that arise in a game that is played worldwide on many different types of courses by players of all abilities_.<br>&mdash; R&A
 
@@ -15,6 +15,8 @@
   *  [Abbreviations](#abbreviations)
   *  [Terms](#terms)
 
+---
+This site is open source. [Improve this page](https://github.com/thierryk/golf/issues/new).
 ---
 
 ## Online Resources
