@@ -86,6 +86,11 @@ Facebook Groups:
 * [Rules of Golf App](https://apple.co/3LBYQpp) for **iOS**
 * [Rules of Golf App](https://play.google.com/store/apps/details?id=com.randa.android&hl=en_GB&gl=US) for **Android**
 
+**GolfQuis**:
+
+* [Quiz App](https://apps.apple.com/us/app/golfquis/id1033917920#?platform=iphone) for **iOS**
+* [Quiz App](https://play.google.com/store/apps/details?id=com.boolex.golficonapp) for **Android**
+
 ### Booklets and PDFs
 
 * USGA Publications (Free downloads)
@@ -106,6 +111,7 @@ Facebook Groups:
 
 * [2023 Rules Quizzes](https://www.usga.org/RulesQuiz/rules_quizzes.html) (multi levels) (**USGA**)
 * [Rules Quiz 2023](https://www.randa.org/quiz) (multi levels) (**R&A**)
+* ["The world's largest quiz about the rules of golf"](https://golfquis.com) (**GolfQuis.com**)
 
 ## Abbreviations and Terms
 
