@@ -2,7 +2,7 @@
 
 ---
 
-# Rules resources and more
+# Resources about Golf Rules 
 
 > _The Rules are comprehensive and provide answers to the many issues that arise in a game that is played worldwide on many different types of courses by players of all abilities_.<br>&mdash; R&A
 
