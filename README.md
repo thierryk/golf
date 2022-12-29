@@ -163,6 +163,7 @@ Facebook Groups:
 * **SP**: Stroke Play<br>
 * **STB**: Stableford<br>
 * **TW**: Temporary Water<br>
+* **UB**: Unplayable Ball<br>
 * **USGA**: United States Golf Association ([usga.org](https://usga.org))<br>
 * **YS**: Yellow Stake<br>
 * **YPA**: Yellow Penalty Area<br>
