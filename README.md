@@ -149,7 +149,7 @@ Facebook Groups:
 * **NPZ**: No Play Zone<br>
 * **OB**: Out of Bounce<br>
 * **PA**: Penalty Area<br>
-* **PCC**:Playing Conditions Calculation<br>
+* **PCC**: Playing Conditions Calculation<br>
 * **PS**: Penalty Stroke<br>
 * **POE**: Point Of Entry<br>
 * **RA**: Relief Area<br>
@@ -162,6 +162,7 @@ Facebook Groups:
 * **SD or S&D**: Stroke & Distance<br>
 * **SP**: Stroke Play<br>
 * **STB**: Stableford<br>
+* **TS**: Talent Stroke<br>
 * **TW**: Temporary Water<br>
 * **UB**: Unplayable Ball<br>
 * **USGA**: United States Golf Association ([usga.org](https://usga.org))<br>
