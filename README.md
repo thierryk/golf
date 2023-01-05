@@ -168,6 +168,7 @@ Facebook Groups:
 * **USGA**: United States Golf Association ([usga.org](https://usga.org))<br>
 * **YS**: Yellow Stake<br>
 * **YPA**: Yellow Penalty Area<br>
+* **WB**: Wrong Ball<br>
 * **WHS**: World Handicap System
 
 ### Terms
