@@ -162,6 +162,7 @@ Facebook Groups:
 * **SD or S&D**: Stroke & Distance<br>
 * **SP**: Stroke Play<br>
 * **STB**: Stableford<br>
+* **TA**: Teeing Area<br>
 * **TS**: Talent Stroke<br>
 * **TW**: Temporary Water<br>
 * **UB**: Unplayable Ball<br>
