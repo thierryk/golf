@@ -54,6 +54,7 @@ Follow [this link](https://www.randa.org/rules/rules-hub) for the R&A version
 * [History of the Rules](http://ruleshistory.usga.org/): Explore the history of the Rules of Golf from 1744 to today.
 * [Green-Reading Materials](https://www.usga.org/content/usga/home-page/articles/2018/10/usga-r-a-finalize-limits-on-green-reading-materials-in-golf.html): New limitations on the use of green-reading materials.
 * [Additional Resources](https://www.usga.org/content/usga/home-page/rules-hub/rules-modernization/golfs-new-rules-resources.html): Infographics, charts and papers related to golf’s new Rules.
+* [MGA Rules Education](https://www.gotostage.com/channel/493c51bde02b44799b587194a25e27bf): Check out the MGA Rules of Golf presentations (videos). 
 
 ### Rules Discussions
 
