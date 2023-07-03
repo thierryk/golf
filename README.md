@@ -180,3 +180,4 @@ Facebook Groups:
 * Do not say Team, say **Side**
 * Do not say Competitor or Adversary, say **Opponent**
 * Do not say Teammate, say **Partner**
+* Do not say Partner, say **Fellow-player** when referring to another player in your group
