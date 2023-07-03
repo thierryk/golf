@@ -181,3 +181,4 @@ Facebook Groups:
 * Do not say Competitor or Adversary, say **Opponent**
 * Do not say Teammate, say **Partner**
 * Do not say Partner, say **Fellow-player** when referring to another player in your group
+* Do not say Tee Box, say **Teeing area** when referring to the area the player must play from in starting the hole they are playing
