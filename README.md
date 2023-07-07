@@ -131,6 +131,7 @@ Facebook Groups:
 * **CAS**: Conditions Affecting the Stroke<br>
 * **CB**: Countback<br>
 * **CTTH**: Closer To The Hole<br>
+* **DMD**: Distance Measuring Device
 * **DQ**: Disqualification<br>
 * **DZ**: Dropping Zone ou Drop Zone<br>
 * **FR**: Free Relief<br>
