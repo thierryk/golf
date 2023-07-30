@@ -150,6 +150,7 @@ Facebook Groups:
 * **NPCR or NPOCR**: Nearest Point of Complete Relief<br>
 * **NPZ**: No Play Zone<br>
 * **OB**: Out of Bounce<br>
+* **PoP**: Pace of Play<br>
 * **PA**: Penalty Area<br>
 * **PCC**: Playing Conditions Calculation<br>
 * **PS**: Penalty Stroke<br>
