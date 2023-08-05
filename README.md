@@ -130,6 +130,7 @@ Facebook Groups:
 * **BOTL**: Back On The Line<br>
 * **CAS**: Conditions Affecting the Stroke<br>
 * **CB**: Countback<br>
+* **CONGU**: Council of National Golf Unions<br>
 * **CTTH**: Closer To The Hole<br>
 * **DMD**: Distance Measuring Device
 * **DQ**: Disqualification<br>
