@@ -137,7 +137,7 @@ Facebook Groups:
 * **CTTH**: Closer To The Hole<br>
 * **DMD**: Distance Measuring Device
 * **DQ**: Disqualification<br>
-* **DZ**: Dropping Zone ou Drop Zone<br>
+* **DZ**: Dropping Zone or Drop Zone<br>
 * **FR**: Free Relief<br>
 * **GA**: [General Area](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#general%20area)<br>
 * **GAC**: Ground Already Covered<br>
