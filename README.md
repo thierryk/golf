@@ -36,6 +36,7 @@ Follow [this link](https://www.randa.org/rules/rules-hub) for the R&A version
 * [Major Rules Changes](https://www.usga.org/content/usga/home-page/rules-hub/rules-modernization/major-changes/major-changes.html): Explore the major changes introduced in the 2019 Rules.
 * [Rules Publications](https://www.usgapublications.com/collections/rules-of-golf-2019): Order the Player’s Edition, Full Rules and/or the Official Guide.
 * [Modified Rules](https://www.usga.org/content/usga/home-page/rules/rules-2019/rules-of-golf/rules-and-interpretations.html#!ruletype=mr&section=rule): Learn more about how the Rules apply to players with disabilities.
+* [Model Local Rules](https://www.usga.org/content/usga/home-page/rules/rules-2019/committee-procedures/rule-8.html).
 
 #### Learn the Rules
 
