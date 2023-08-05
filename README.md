@@ -126,7 +126,7 @@ Facebook Groups:
 * **4BBB**: Four Ball Better Ball<br>
 * **ACC**: [Abnomal Course Condition](https://blog.ncga.org/rule-of-the-month-model-local-rules)<br>
 * **AH**: [Animal Hole](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#animal%20hole)<br>
-* **AS**: [Alternate Shot](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#foursomes%20(also%20known%20as%20%E2%80%9Calternate%20shot%E2%80%9D) (Foursomes]<br>
+* **AS**: [Alternate Shot](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#foursomes%20(also%20known%20as%20%E2%80%9Calternate%20shot%E2%80%9D) (Foursomes)<br>
 * **BIP**: Ball In Play<br>
 * **BM**: [Ball-Marker](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#ball-marker)<br>
 * **BO**: [Boundary Object](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#boundary%20object)
