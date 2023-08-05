@@ -145,7 +145,7 @@ Facebook Groups:
 * **IO**: Immovable Obstruction<br>
 * **KVC**: Known or Virtually Certain<br>
 * **LB**: Lost Ball<br>
-* **MLR**: Model Local Rule<br>
+* **MLR**: [Model Local Rule](https://blog.ncga.org/rule-of-the-month-model-local-rules)<br>
 * **MO**: Movable Obstruction<br>
 * **NPR or NPOR**: Nearest Point of Relief<br>
 * **NPCR or NPOCR**: Nearest Point of Complete Relief<br>
