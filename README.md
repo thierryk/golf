@@ -124,11 +124,14 @@ Facebook Groups:
 > Many of these abbreviations are not _**recognised**_ but are nonetheless used in unformal comments / discussions.
 
 * **4BBB**: Four Ball Better Ball<br>
-* **ACC**: Abnomal Course Condition<br>
-* **AH**: Animal Hole<br>
+* **ACC**: [Abnomal Course Condition](https://blog.ncga.org/rule-of-the-month-model-local-rules)<br>
+* **AH**: [Animal Hole](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#animal%20hole)<br>
+* **AS**: [Alternate Shot](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#foursomes%20(also%20known%20as%20%E2%80%9Calternate%20shot%E2%80%9D) (Foursomes]<br>
 * **BIP**: Ball In Play<br>
+* **BM**: [Ball-Marker](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#ball-marker)<br>
+* **BO**: [Boundary Object](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#boundary%20object)
 * **BOTL**: Back On The Line<br>
-* **CAS**: Conditions Affecting the Stroke<br>
+* **CAS**: [Conditions Affecting the Stroke](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#conditions%20affecting%20the%20stroke)<br>
 * **CB**: Countback<br>
 * **CONGU**: Council of National Golf Unions<br>
 * **CTTH**: Closer To The Hole<br>
@@ -136,52 +139,61 @@ Facebook Groups:
 * **DQ**: Disqualification<br>
 * **DZ**: Dropping Zone ou Drop Zone<br>
 * **FR**: Free Relief<br>
-* **GA**: General Area<br>
+* **GA**: [General Area](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#general%20area)<br>
 * **GAC**: Ground Already Covered<br>
-* **GP**: General Penalty<br>
-* **GUR**: Ground Under Repair<br>
+* **GP**: [General Penalty](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#general%20penalty)<br>
+* **GUR**: [Ground Under Repair](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#ground%20under%20repair)<br>
 * **HC**: Handicap<br>
-* **IO**: Integral Object<br>
-* **IO**: Immovable Obstruction<br>
-* **KVC**: Known or Virtually Certain<br>
+* **IO**: [Integral Object](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#integral%20object)<br>
+* **IO**: [Immovable Obstruction](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#immovable%20obstruction)<br>
+* **KVC**: [Known or Virtually Certain](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#known%20or%20virtually%20certain)<br>
 * **LB**: Lost Ball<br>
+* **LI**: [Loose Impediment](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#loose%20impediment)<br>
+* **LoP**: [Line of Play](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#line%20of%20play)<br>
 * **MLR**: [Model Local Rule](https://blog.ncga.org/rule-of-the-month-model-local-rules)<br>
-* **MO**: Movable Obstruction<br>
+* **MO**: [Movable Obstruction](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#movable%20obstruction)<br>
+* **NF**: [Natural Forces](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#natural%20forces)<br>
 * **NPR or NPOR**: Nearest Point of Relief<br>
-* **NPCR or NPOCR**: Nearest Point of Complete Relief<br>
-* **NPZ**: No Play Zone<br>
-* **OB**: Out of Bounce<br>
+* **NPCR or NPOCR**: [Nearest Point of Complete Relief](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#nearest%20point%20of%20complete%20relief)<br>
+* **NPZ**: [No Play Zone](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#no%20play%20zone)<br>
+* **OB**: [Out of Bounds](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#out%20of%20bounds)<br>
+* **OI**: [Outside Influence](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#outside%20influence)<br>
+* **PB**: [Provisional Ball](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#provisional%20ball)<br>
+* **PG**: [Putting Green](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#putting%20green)<br>
 * **PoP**: Pace of Play<br>
-* **PA**: Penalty Area<br>
+* **PA**: [Penalty Area](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#penalty%20area)<br>
 * **PCC**: Playing Conditions Calculation<br>
+* **PoMAR**: [Point of Maximum Available Relief](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#point%20of%20maximum%20available%20relief)<br>
 * **PS**: Penalty Stroke<br>
 * **POE**: Point Of Entry<br>
-* **RA**: Relief Area<br>
+* **RA**: [Relief Area](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#relief%20area)<br>
 * **RoG**: Rules of Golf<br>
 * **RP**: Reference Point<br>
 * **RPA**: Red Penalty Area<br>
 * **RPA or RFPA**: Relief from Penalty Area<br>
 * **RS**: Red Stake<br>
 * **R&A**: Royal & Ancient ([randa.org](https://randa.org))<br>
-* **SD or S&D**: Stroke & Distance<br>
-* **SP**: Stroke Play<br>
-* **STB**: Stableford<br>
-* **TA**: Teeing Area<br>
+* **SB**: [Serious Breach](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#serious%20breach)
+* **SD or S&D**: [Stroke & Distance](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#stroke%20and%20distance)<br>
+* **SP**: [Stroke Play](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#stroke%20play)<br>
+* **STB**: [Stableford](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#stableford)<br>
+* **TA**: [Teeing Area](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#teeing%20area)<br>
 * **TS**: Talent Stroke<br>
-* **TW**: Temporary Water<br>
+* **TW**: [Temporary Water](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#temporary%20water)<br>
 * **UB**: Unplayable Ball<br>
 * **USGA**: United States Golf Association ([usga.org](https://usga.org))<br>
 * **YS**: Yellow Stake<br>
 * **YPA**: Yellow Penalty Area<br>
-* **WB**: Wrong Ball<br>
+* **WB**: [Wrong Ball](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#wrong%20ball)<br>
 * **WHS**: World Handicap System
+* **WP**: [Wrong Place](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#wrong%20place)
 
 ### Terms
 
-* Do not say Hazard, say **Penalty Area** (PA)
-* Do not say Casual Water, say **Temporary Water** (TA)
-* Do not say Team, say **Side**
-* Do not say Competitor or Adversary, say **Opponent**
-* Do not say Teammate, say **Partner**
+* Do not say Hazard, say **[Penalty Area](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#penalty%20area)** (PA)
+* Do not say Casual Water, say **[Temporary Water](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#temporary%20water)** (TA)
+* Do not say Team, say **[Side](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#side)**
+* Do not say Competitor or Adversary, say **[Opponent](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#opponent)**
+* Do not say Teammate, say **[Partner](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#partner)**
 * Do not say Partner, say **Fellow-player** when referring to another player in your group
-* Do not say Tee Box, say **Teeing area** when referring to the area the player must play from in starting the hole they are playing
+* Do not say Tee Box, say **[Teeing Area](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#teeing%20area)** when referring to the area the player must play from in starting the hole they are playing
