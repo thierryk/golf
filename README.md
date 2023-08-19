@@ -160,14 +160,14 @@ Facebook Groups:
 * **NPZ**: [No Play Zone](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#no%20play%20zone)<br>
 * **OB**: [Out of Bounds](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#out%20of%20bounds)<br>
 * **OI**: [Outside Influence](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#outside%20influence)<br>
-* **PB**: [Provisional Ball](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#provisional%20ball)<br>
-* **PG**: [Putting Green](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#putting%20green)<br>
-* **PoP**: Pace of Play<br>
 * **PA**: [Penalty Area](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#penalty%20area)<br>
+* **PB**: [Provisional Ball](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#provisional%20ball)<br>
 * **PCC**: Playing Conditions Calculation<br>
-* **PoMAR**: [Point of Maximum Available Relief](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#point%20of%20maximum%20available%20relief)<br>
-* **PS**: Penalty Stroke<br>
+* **PG**: [Putting Green](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#putting%20green)<br>
 * **POE**: Point Of Entry<br>
+* **PoMAR**: [Point of Maximum Available Relief](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#point%20of%20maximum%20available%20relief)<br>
+* **PoP**: Pace of Play<br>
+* **PS**: Penalty Stroke<br>
 * **RA**: [Relief Area](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#relief%20area)<br>
 * **RoG**: Rules of Golf<br>
 * **RP**: Reference Point<br>
