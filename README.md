@@ -193,7 +193,7 @@ Facebook Groups:
 ### Terms
 
 * Do not say Hazard, say **[Penalty Area](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#penalty%20area)** (PA)
-* Do not say Casual Water, say **[Temporary Water](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#temporary%20water)** (TA)
+* Do not say Casual Water, say **[Temporary Water](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#temporary%20water)** (TW)
 * Do not say Team, say **[Side](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#side)**
 * Do not say Competitor or Adversary, say **[Opponent](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#opponent)**
 * Do not say Teammate, say **[Partner](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#partner)**
