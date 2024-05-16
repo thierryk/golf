@@ -70,12 +70,10 @@ Facebook Groups:
 
 ### Youtube Channels and videos
 
-* [Rules of Golf Explained](https://www.youtube.com/playlist?list=PLnU5qUEfww3fi0iCW6JVWrGtLWsJC_GSf) (USGA Channel)
+* [Golf Rules with Jay Roberts](https://www.youtube.com/@JayRobertsGolf) 
 * The World Handicap System (WHS):
-  * [How will the The World Handicap System affect your golf?](https://www.youtube.com/watch?v=inPXB7YFuS0&list=PLPaAMxYPZcI9D9feMNQyKW-d35jr9ncLI&ab_channel=TheR%26A)
-  * [What Scores are Acceptable for Handicap Purposes?](https://www.youtube.com/watch?v=Oajd0V0cXz8&list=PLPaAMxYPZcI9D9feMNQyKW-d35jr9ncLI&index=8&ab_channel=TheR%26A)
-  * [Maximum Scores for Handicap](https://www.youtube.com/watch?v=NXrnVPd0r5g&list=PLPaAMxYPZcI9D9feMNQyKW-d35jr9ncLI&index=9&ab_channel=TheR%26A)
-  * [Frequency of Handicap Update](https://www.youtube.com/watch?v=EC9_lTX7tSM&list=PLPaAMxYPZcI9D9feMNQyKW-d35jr9ncLI&index=11&ab_channel=TheR%26A)
+  * [Key Changes to World Handicap System in 2024](https://www.youtube.com/watch?v=ci4Dy8qQZSc&ab_channel=UnitedStatesGolfAssociation%28USGA%29)
+  * [2024 World Handicap System™ Revision: 9-Hole Scores](https://www.youtube.com/watch?v=UXv6uguVR4g&ab_channel=UnitedStatesGolfAssociation%28USGA%29)
 
 ## Apps and Booklets
 
