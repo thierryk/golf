@@ -131,7 +131,7 @@ Facebook Groups:
 * **BM**: [Ball-Marker](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#ball-marker)<br>
 * **BO**: [Boundary Object](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#boundary%20object)
 * **BOTL**: Back On The Line<br>
-* **CAS**: [Conditions Affecting the Stroke](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#conditions%20affecting%20the%20stroke)<br>
+* **CAS or CATS**: [Conditions Affecting the Stroke](https://www.usga.org/rules/rules-and-clarifications/rules-of-golf/definitions.html#conditions%20affecting%20the%20stroke)<br>
 * **CB**: Countback<br>
 * **CONGU**: Council of National Golf Unions<br>
 * **CTTH**: Closer To The Hole<br>
